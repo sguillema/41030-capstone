@@ -1,0 +1,9 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <UnityWSASolutionName>Humbug</UnityWSASolutionName>
+        <UnityWSASolutionDir>C:\Users\97116331\Desktop\sebastian's stuff\Humbug\App\</UnityWSASolutionDir>
+        <UnityProjectDir>C:\Users\97116331\Desktop\sebastian's stuff\Humbug\</UnityProjectDir>
+        <UnityWSAPlayerDir>C:\Program Files\Unity\2018.4.1f1\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
+        <UnityWSAToolsDir>$(UnityWSASolutionDir)Unity\Tools\</UnityWSAToolsDir>
+    </PropertyGroup>
+</Project>
